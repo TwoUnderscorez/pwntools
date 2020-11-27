@@ -1,3 +1,11 @@
+# Pull requests
+
+#1667: [i386 ascii shellcode](https://github.com/Gallopsled/pwntools/pull/1667)
+
+#1693: [Fix documentation of #1667](https://github.com/Gallopsled/pwntools/pull/1693)
+
+
+
 # pwntools - CTF toolkit
 ![pwntools logo](https://github.com/Gallopsled/pwntools/blob/stable/docs/source/logo.png?raw=true)
 
